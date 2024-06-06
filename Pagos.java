@@ -1,12 +1,10 @@
-/*Para el pago de paquetes es por medio de tarjeta, se le busca el número de cliente y a este
-se le asigna un atributo tarjeta.
-Para determinar el monto del pago de cada servicio contratado se le hace la sumatoria década
-paquete y se aplica al cargo (double) de la tarjeta
+/**
 
-Equipo:
--Sosa Santiago Nadya Cristina
+ * @author: Nadya Cristina Sosa Santiago, González Portilla Daniel Iram, Ada Paulina Santillan Osorio, Alexis Ivan Santiago Avila
 
-*/
+ * @version: 05/06/2024/A
+
+ */
 
 import java.util.HashMap;
 import java.util.Map;
