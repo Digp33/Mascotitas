@@ -1,3 +1,11 @@
+/**
+
+ * @author: Nadya Cristina Sosa Santiago, González Portilla Daniel Iram, Ada Paulina Santillan Osorio, Alexis Ivan Santiago Avila
+
+ * @version: 05/06/2024/A
+
+ */
+
 import java.util.HashMap;
 import java.util.Scanner;
 
